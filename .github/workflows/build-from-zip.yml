@@ -14,7 +14,7 @@ jobs:
       - name: Extract project ZIP
         run: |
           mkdir project
-          unzip -q CricketLiveHub_MVP_v9_ChannelHubUI.zip -d project
+          unzip -q CricketLive_FINAL_USHA_IT_RemoteReady_v2.zip -d project
 
       - name: Set up Java
         uses: actions/setup-java@v4
